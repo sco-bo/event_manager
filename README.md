@@ -1,4 +1,4 @@
-Event Manager - jumpstart labs
+##Event Manager - jumpstart labs
 
 This is my version of the jumpstart labs Event Manager tutorial. 
 
